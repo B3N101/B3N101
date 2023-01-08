@@ -28,6 +28,7 @@ I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I solve problems on Codeforces(never have time to compete in full competitions), read/watch tech, economic, and political news.
 
+- 🥇 gold usaco
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

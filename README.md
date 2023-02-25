@@ -26,6 +26,8 @@ I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - I am currently working on both VSCODE and NEOVIM on MACOS
 
+- Big Copilot user - 10x baby
+
 - :seedling: Working on schoolwork and projects
 
 - :zap: In my free time, I solve problems on Codeforces(never have time to compete in full competitions), read/watch tech, economic, and political news.

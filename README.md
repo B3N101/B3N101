@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Concord, MA at Middlesex School
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications mainly retaining to my educational institution.
+- :telescope: I’m working as a student mainly working on web and cli projects.
 
 - I am currently working on both VSCODE and NEOVIM on MACOS (with copilot)
 

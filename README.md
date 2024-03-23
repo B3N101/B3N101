@@ -5,11 +5,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <p align="center">
-<a href="https://codeforces.com/profile/benf" target="blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge" />
-    </a>
-</p>
   <img src="https://komarev.com/ghpvc/?username=B3N101&style=flat-square&color=red" alt=""/>
   <h1>
     hey there
@@ -24,9 +19,9 @@
 
 ### :man_technologist: About Me :
 I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Concord, MA at Middlesex School
-- :telescope: I’m working as a student mainly working on web and cli projects.
+- :telescope: I’m a student mainly working on web and cli projects.
 
-- I am currently working on both VSCODE and NEOVIM on MACOS (with copilot)
+- I am using macos, arch, neovim, and github copilot.
 
 - :seedling: Working on schoolwork and projects
 
@@ -41,9 +36,6 @@ I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
-  </a> 
- <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 

@@ -67,6 +67,7 @@ I am a Developer and Student <img src="https://media.giphy.com/media/WUlplcMpOCE
   </a> <a href"https://www.typescriptlang.org/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   </a>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
                                                                                
                                                         
                                                                                                                                                                                                
